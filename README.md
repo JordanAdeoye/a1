@@ -1,1 +1,5 @@
-# a1
+# Libraries Used
+<br>
+numpy
+scipy
+matplotlib
